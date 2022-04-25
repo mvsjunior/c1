@@ -1,2 +1,2 @@
 # c1
-Clone G1 new
+Clone G1 news
